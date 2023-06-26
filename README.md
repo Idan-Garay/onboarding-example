@@ -1,3 +1,17 @@
+# Development Onboarding UI templates (login, registration, dashboard) 
+- [template 1](https://preview.themeforest.net/item/axies-nft-marketplace-tailwind-css-template/full_screen_preview/46187205?_ga=2.207037978.824238319.1687764954-1451840897.1687764954)
+
+- [template 2](https://preview.themeforest.net/item/monteno-nft-portfolio-tailwind-css-template/full_screen_preview/45527206?_ga=2.207037978.824238319.1687764954-1451840897.1687764954)
+
+- [template 3](https://preview.themeforest.net/item/metaportal-nft-portfolio-and-landing-page/full_screen_preview/38941507?_ga=2.150063679.824238319.1687764954-1451840897.1687764954)
+
+- [template 4](https://preview.themeforest.net/item/xhibiter-nft-marketplace-html-template/full_screen_preview/36542347?_ga=2.150064319.824238319.1687764954-1451840897.1687764954)
+
+- [template 5](https://preview.themeforest.net/item/giglink-nft-marketplace-tailwind-css-template/full_screen_preview/40404538?_ga=2.250637455.824238319.1687764954-1451840897.1687764954)
+
+- [template 6](https://crypto-tailwind.preview.uideck.com/)
+
+- [template 7](https://github.com/RSurya99/nefa) 
 
 # Development Team Onboarding
 Integrate new members into the development team, equip them with the necessary resources and knowledge, and ensure a smooth transition into their roles and responsibilities. 

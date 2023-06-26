@@ -38,8 +38,11 @@ Contains any development-related files
 
 ## FAQ
 
-#### Question 1
-
+#### What are the different names under the company?
+- Republisys (Software Development Team)
+- HeyMobie
+- FAIRYDE (Ride-hailing Application)
+  
 Answer 1
 
 #### Question 2

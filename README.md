@@ -6,7 +6,7 @@ Integrate new members into the development team, equip them with the necessary r
 
 - Work email will be created for you to change password.
 - Use the work email to access microsoft 360 applications e.g. Teams, Outlook, OneDrive, and others.
-- A welcome email containing the company's policies and procedures will be sent to you.
+- A welcome email containing the company's policies and procedures will be sent to you via Microsoft Outlook.
 - You will be oriented on your first day. Use the files mentions in the Resources section below. 
 
 ## 🚀 Resources

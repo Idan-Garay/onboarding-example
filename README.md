@@ -13,8 +13,8 @@
 
 - [template 7](https://github.com/RSurya99/nefa) 
 
-# Development Team Onboarding
-Integrate new members into the development team, equip them with the necessary resources and knowledge, and ensure a smooth transition into their roles and responsibilities. 
+# For New Employees
+- The following sections below can be used to assist in integrating new members into the development team, equip them with the necessary resources and knowledge, and ensure a smooth transition into their roles and responsibilities. 
 
 ## Guide
 
@@ -56,8 +56,3 @@ Contains any development-related files
 - Republisys (Software Development Team)
 - HeyMobie
 - FAIRYDE (Ride-hailing Application)
-
-#### Question 2
-
-Answer 2
-

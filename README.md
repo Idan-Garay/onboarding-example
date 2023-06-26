@@ -42,8 +42,6 @@ Contains any development-related files
 - Republisys (Software Development Team)
 - HeyMobie
 - FAIRYDE (Ride-hailing Application)
-  
-Answer 1
 
 #### Question 2
 

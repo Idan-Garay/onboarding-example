@@ -4,9 +4,9 @@ candidate templates for reskinning the [https://app.hayvnglobal.com/main/home](h
 
 - [Ampire](https://preview.tailus.io/ampire-lite/)
 
-- [Giglink]([https://preview.themeforest.net/item/giglink-nft-marketplace-tailwind-css-template/full_screen_preview/40404538?_ga=2.250637455.824238319.1687764954-1451840897.1687764954](https://shreethemes.in/giglink/layouts/index-four.html))
+- [Giglink](https://preview.themeforest.net/item/giglink-nft-marketplace-tailwind-css-template/full_screen_preview/40404538?_ga=2.250637455.824238319.1687764954-1451840897.1687764954](https://shreethemes.in/giglink/layouts/index-four.html))
 
-- [nefa](https://github.com/RSurya99/nefa) 
+- [Nefa](https://github.com/RSurya99/nefa) 
 
 # For New Employees
 - The following sections below can be used to assist in integrating new members into the development team, equip them with the necessary resources and knowledge, and ensure a smooth transition into their roles and responsibilities. 

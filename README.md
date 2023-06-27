@@ -16,11 +16,12 @@ candidate templates for reskinning the [https://app.hayvnglobal.com/main/home](h
 - Work email will be created for you to change password.
 - Use the work email to access microsoft 360 applications e.g. Teams, Outlook, OneDrive, and others.
 - A welcome email containing the company's policies and procedures will be sent to you via Microsoft Outlook.
-- You will be oriented on your first day through a virtual meeting. Use the files mentions in the Resources section below as your notes. 
+- You will be oriented on your first day through a virtual meeting. Use the files mentioned in the Resources section below as your notes. 
+- Your work email will be invited to the "A Worldpay HAYVN Integration" team within Microsoft teams app.
 
-## 🚀 Resources
+## 🚀 Resources (pre-requisite: member of "A Worldpay HAYVN Integration" team within the app)
 Contains any development-related files
-- Go to Teams -> Select 'A Worldpay HAYVN Integration' team -> Resources
+- Go to Microsoft Team App -> Teams -> Select 'A Worldpay HAYVN Integration' team -> Resources
 
 
 ## 🔗 Links

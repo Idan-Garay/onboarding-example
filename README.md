@@ -1,18 +1,12 @@
 # Development Onboarding UI templates (login, registration, dashboard) 
 candidate templates for reskinning the [https://app.hayvnglobal.com/main/home](https://app.hayvnglobal.com/main/home) 
-- [template 1](https://preview.themeforest.net/item/axies-nft-marketplace-tailwind-css-template/full_screen_preview/46187205?_ga=2.207037978.824238319.1687764954-1451840897.1687764954)
+- [Nextly](https://nextly.web3templates.com/)
 
-- [template 2](https://preview.themeforest.net/item/monteno-nft-portfolio-tailwind-css-template/full_screen_preview/45527206?_ga=2.207037978.824238319.1687764954-1451840897.1687764954)
+- [Ampire](https://preview.tailus.io/ampire-lite/)
 
-- [template 3](https://preview.themeforest.net/item/metaportal-nft-portfolio-and-landing-page/full_screen_preview/38941507?_ga=2.150063679.824238319.1687764954-1451840897.1687764954)
+- [Giglink]([https://preview.themeforest.net/item/giglink-nft-marketplace-tailwind-css-template/full_screen_preview/40404538?_ga=2.250637455.824238319.1687764954-1451840897.1687764954](https://shreethemes.in/giglink/layouts/index-four.html))
 
-- [template 4](https://preview.themeforest.net/item/xhibiter-nft-marketplace-html-template/full_screen_preview/36542347?_ga=2.150064319.824238319.1687764954-1451840897.1687764954)
-
-- [template 5](https://preview.themeforest.net/item/giglink-nft-marketplace-tailwind-css-template/full_screen_preview/40404538?_ga=2.250637455.824238319.1687764954-1451840897.1687764954)
-
-- [template 6](https://crypto-tailwind.preview.uideck.com/)
-
-- [template 7](https://github.com/RSurya99/nefa) 
+- [nefa](https://github.com/RSurya99/nefa) 
 
 # For New Employees
 - The following sections below can be used to assist in integrating new members into the development team, equip them with the necessary resources and knowledge, and ensure a smooth transition into their roles and responsibilities. 
